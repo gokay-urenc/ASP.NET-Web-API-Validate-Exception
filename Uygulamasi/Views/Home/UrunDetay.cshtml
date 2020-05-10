@@ -1,0 +1,66 @@
+﻿@model int
+@{
+    ViewBag.Title = "UrunDetay";
+}
+
+<h2>UrunDetay</h2>
+
+<div class="panel panel-default">
+    <div class="panel-body">
+        <form id="frm">
+            <div class="form-group">
+                <label>Adı</label>
+                <input type="text" class="form-control" id="ad" name="Adi" />
+            </div>
+            <div class="form-group">
+                <label>Fiyatı</label>
+                <input type="text" class="form-control" id="fiyat"  name="Fiyati"/>
+            </div>
+            <div class="form-group">
+                <label>Stok Miktarı</label>
+                <input type="text" class="form-control" id="stok" name="StokMiktari"/>
+            </div>
+            <div class="form-group">
+                <label>Ağırlık</label>
+                <input type="text" class="form-control" id="agirlik" name="Agirlik"/>
+            </div>
+            <input type="hidden" name="UrunID" value="@Model"/>
+            <input type="button" id="btnDuzenle" class="btn btn-warning" value="Düzenle" /> |
+            <input type="button" id="btnSil" class="btn btn-danger" value="Sil" />
+        </form>
+    </div>
+</div>
+
+@section specialScript
+{
+    <script>
+        $(document).ready(function () { // Index sayfasında seçilen ürünün detayını tekil olarak getiren ajax.
+            $.ajax({
+                url: 'http://localhost:55023/api/Product',
+                type: 'GET',
+                data: {id:@Model},
+                success: function (prm) {
+                    $('#ad').val(prm.ProductName);
+                    $('#fiyat').val(prm.UnitPrice);
+                    $('#stok').val(prm.UnitsInStock);
+                    $('#agirlik').val(prm.QuantityPerUnit)
+                }
+            })
+
+            $('#btnDuzenle').click(function () {
+                debugger
+                $.ajax({
+                    url: 'http://localhost:55023/api/Product/',
+                    type: 'PUT',
+                    data: $('#frm').serializeArray(),
+                    success: function (response) {
+                        alert("İşlem başarılı.");
+                    },
+                    error: function (err) {
+                        debugger
+                    }
+                })
+            })
+        })
+    </script>
+}

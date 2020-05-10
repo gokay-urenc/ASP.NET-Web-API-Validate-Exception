@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table class="table table-hover text-success">
+    <tr>
+        <td>Ürün ID</td>
+        <td>Ürün Adı</td>
+        <td>Fiyatı</td>
+        <td>Stok</td>
+        <td>İşlem</td>
+    </tr>
+    <tbody id="tbl">
+    </tbody>
+</table>
+
+@section specialScript {
+<script>
+        $(document).ready(function () {
+            $.ajax({
+                url: 'http://localhost:55023/api/Product',
+                type: "GET",
+                success: function (response) {
+                    debugger
+                    $.each(response, function (index, value) {
+                        $('#tbl').append(
+                            "<tr><td>" + value.ProductID + "</td> <td>" + value.ProductName + "</td> <td>" + value.UnitPrice + "</td> <td>" + value.UnitsInStock + "</td> <td><a href='/Home/UrunDetay?pID=" + value.ProductID + "'>Detaya Git</a> </td> </tr>")
+                    })
+                }
+            })
+        })
+    </script>
+}

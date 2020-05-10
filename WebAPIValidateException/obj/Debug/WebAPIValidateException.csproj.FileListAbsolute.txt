@@ -1,0 +1,142 @@
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\WebAPIValidateException.dll.config
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\WebAPIValidateException.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\WebAPIValidateException.pdb
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\csc.exe
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\csc.exe.config
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\csc.rsp
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\csi.exe
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\csi.exe.config
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\csi.rsp
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.AppContext.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Collections.Immutable.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Console.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.IO.Compression.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.IO.FileSystem.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.IO.Pipes.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Reflection.Metadata.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Security.AccessControl.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Security.Claims.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.ValueTuple.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Xml.XPath.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\vbc.exe
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\vbc.exe.config
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\vbc.rsp
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\VBCSCompiler.exe
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\roslyn\VBCSCompiler.exe.config
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\EntityFramework.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\EntityFramework.SqlServer.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\Newtonsoft.Json.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\System.Net.Http.Formatting.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\System.Web.Http.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\System.Web.Http.WebHost.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\EntityFramework.xml
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\EntityFramework.SqlServer.xml
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\Newtonsoft.Json.xml
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\System.Net.Http.Formatting.xml
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\System.Web.Http.xml
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\System.Web.Http.WebHost.xml
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\obj\Debug\WebAPIValidateException.csprojAssemblyReference.cache
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\obj\Debug\WebAPIValidateException.csproj.CoreCompileInputs.cache
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\obj\Debug\WebAPIValidateException.csproj.CopyComplete
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\obj\Debug\WebAPIValidateException.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\obj\Debug\WebAPIValidateException.pdb
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\System.Web.Cors.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\System.Web.Http.Cors.dll
+F:\Kurs Dosyaları\YMS4117\WebAPI\WebAPIValidateException\WebAPIValidateException\bin\System.Web.Http.Cors.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\WebAPIValidateException.dll.config
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\WebAPIValidateException.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\WebAPIValidateException.pdb
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\csc.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\csc.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\csc.rsp
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\csi.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\csi.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\csi.rsp
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.AppContext.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Console.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.IO.Compression.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.IO.Pipes.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Security.Claims.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.ValueTuple.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Xml.XPath.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\vbc.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\vbc.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\vbc.rsp
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\VBCSCompiler.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\EntityFramework.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\EntityFramework.SqlServer.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\Newtonsoft.Json.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\System.Net.Http.Formatting.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\System.Web.Cors.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\System.Web.Http.Cors.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\System.Web.Http.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\System.Web.Http.WebHost.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\EntityFramework.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\EntityFramework.SqlServer.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\System.Net.Http.Formatting.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\System.Web.Http.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\System.Web.Http.Cors.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\Newtonsoft.Json.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\System.Web.Http.WebHost.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\obj\Debug\WebAPIValidateException.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\obj\Debug\WebAPIValidateException.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\obj\Debug\WebAPIValidateException.csproj.CopyComplete
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\obj\Debug\WebAPIValidateException.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_4_Validate_Exception\WebAPIValidateException\obj\Debug\WebAPIValidateException.pdb
